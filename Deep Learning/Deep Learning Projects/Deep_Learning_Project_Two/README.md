@@ -1,4 +1,4 @@
-# Multi-Class-Classification-Iris-FlowersProject-2-for-Mothers-who-love-Gardening-and-Flowers-Identi
+# Multi-Class-Classification-Iris-FlowersProject-2-for-Mothers-who-love-Gardening-and-Flowers-Identity
 In this project, I have  use Keras to develop and evaluate neural network models for multi-class classification project
 
 In this project  , you will know:
